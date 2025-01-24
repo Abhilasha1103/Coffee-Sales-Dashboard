@@ -1,7 +1,8 @@
 Coffee-Sales-Dashboard 
 
 
- ![Coffee image](https://github.com/user-attachments/assets/6988a12d-c503-4773-bc6b-b9ae389c19bc)
+ ![coffee new image](https://github.com/user-attachments/assets/dc822d6a-1fea-4a16-a4d2-a79a4b52ce8f)
+
 
 Overview :
 

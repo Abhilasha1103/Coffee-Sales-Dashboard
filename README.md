@@ -46,7 +46,8 @@ The Coffee Sales Dashboard provides an analytical view of sales and transactiona
 Dashboard :
  
 
-![Coffee Sales Dashboard](https://github.com/user-attachments/assets/7300b014-59bd-4230-beed-da209f5f7731)
+![image](https://github.com/user-attachments/assets/c10400c0-d8e2-4f2a-9f73-5b30ee3098cd)
+
 
 
 

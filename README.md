@@ -22,6 +22,13 @@ Microsoft Excel
 
 Result and Insights :
 
+ - We are able to see a continuous growth in revenue which indicates increasing popularity and success of the business .
+   
+ - We can see drastic increment in the revenue in the month of May indicating that people are visiting the cafes often or in more numbers .
+   
+ - This could be due to holiday season and we should be prepared for this trend next year .
+
+
  - I have noticed that the Monthly revenue showcases a steady increase over time, peaking at approximately $156,756 in June.
 
  - Product categories such as Brewed Black Tea and Espresso have the highest transaction quantities, highlighting their popularity.
@@ -43,10 +50,19 @@ The Coffee Sales Dashboard provides an analytical view of sales and transactiona
 
 
 
+Suggestions :
+
+ - Focus on promoting top-performing items like Barista Espresso and Brewed Black Tea.
+   
+ - Consider upselling complementary products with these items.
+
+ - Use insights from the busiest days and hours to schedule staff effectively and manage inventory during peak times.
+
 Dashboard :
  
 
-![new one dashboard](https://github.com/user-attachments/assets/acaeba2e-9b3f-4137-9e25-e7fda67a3d1b)
+![image](https://github.com/user-attachments/assets/9eecfed8-f9e9-40c6-8cc6-c974a58e9c3b)
+
 
 
 

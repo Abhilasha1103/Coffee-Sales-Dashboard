@@ -1,10 +1,10 @@
-Coffee-Sales-Dashboard 
+## Coffee-Sales-Dashboard 
 
 
  ![coffee new image](https://github.com/user-attachments/assets/dc822d6a-1fea-4a16-a4d2-a79a4b52ce8f)
 
 
-Overview :
+# Overview :
 
 This project is an analysis of coffee shop sales using Excel . This analysis includes a dashboard with the total sales over time, sales by region, customer preferences, and it is possible to  filter by products type , profit making products. There are also some relevant insights  regarding the sales . 
 
@@ -12,7 +12,7 @@ This project is an analysis of coffee shop sales using Excel . This analysis inc
 
 
 
-Tool Used :
+# Tool Used :
 
 Microsoft Excel 
 
@@ -20,7 +20,7 @@ Microsoft Excel
 
 
 
-Result and Insights :
+# Result and Insights :
 
  - We are able to see a continuous growth in revenue which indicates increasing popularity and success of the business .
    
@@ -43,14 +43,14 @@ Result and Insights :
 
 
 
-Data Story :
+# Data Story :
 
 The Coffee Sales Dashboard provides an analytical view of sales and transactional performance across various metrics for three store locations: Astoria, Hell's Kitchen, and Lower Manhattan. This visual representation highlights sales trends, revenue patterns, busiest times, and product performance.
 
 
 
 
-Suggestions :
+# Suggestions :
 
  - Focus on promoting top-performing items like Barista Espresso and Brewed Black Tea.
    
@@ -58,10 +58,11 @@ Suggestions :
 
  - Use insights from the busiest days and hours to schedule staff effectively and manage inventory during peak times.
 
-Dashboard :
+# Dashboard :
  
 
-![image](https://github.com/user-attachments/assets/9eecfed8-f9e9-40c6-8cc6-c974a58e9c3b)
+![new dashboard](https://github.com/user-attachments/assets/2348eda8-1e3b-4224-b786-9259b0d868cb)
+
 
 
 

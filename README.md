@@ -1,4 +1,4 @@
-# 🫘 Coffee-Sales-Dashboard 
+# ☕ Coffee-Sales-Dashboard 
 
 
  ![coffee new image](https://github.com/user-attachments/assets/dc822d6a-1fea-4a16-a4d2-a79a4b52ce8f)
